@@ -11,9 +11,11 @@ My daily LeetCode solutions in Python, Java and C++, auto-synced with LeetHub ðŸ
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0141-linked-list-cycle](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
@@ -23,5 +25,10 @@ My daily LeetCode solutions in Python, Java and C++, auto-synced with LeetHub ðŸ
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
