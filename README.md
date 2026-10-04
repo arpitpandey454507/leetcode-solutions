@@ -16,6 +16,7 @@ My daily LeetCode solutions in Python, Java and C++, auto-synced with LeetHub ðŸ
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
@@ -23,6 +24,7 @@ My daily LeetCode solutions in Python, Java and C++, auto-synced with LeetHub ðŸ
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
