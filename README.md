@@ -20,6 +20,7 @@ My daily LeetCode solutions in Python, Java and C++, auto-synced with LeetHub ðŸ
 | [0141-linked-list-cycle](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -37,4 +38,12 @@ My daily LeetCode solutions in Python, Java and C++, auto-synced with LeetHub ðŸ
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 <!---LeetCode Topics End-->
