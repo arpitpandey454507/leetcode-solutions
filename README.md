@@ -8,6 +8,7 @@ My daily LeetCode solutions in Python, Java and C++, auto-synced with LeetHub ðŸ
 | ------- | ------- |
 | [0001-two-sum](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0053-maximum-subarray](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0136-single-number](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,4 +75,8 @@ My daily LeetCode solutions in Python, Java and C++, auto-synced with LeetHub ðŸ
 | ------- | ------- |
 | [0100-same-tree](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
