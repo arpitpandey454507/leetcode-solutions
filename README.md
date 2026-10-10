@@ -79,4 +79,8 @@ My daily LeetCode solutions in Python, Java and C++, auto-synced with LeetHub ðŸ
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0136-single-number/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 <!---LeetCode Topics End-->
