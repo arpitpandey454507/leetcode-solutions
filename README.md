@@ -9,6 +9,7 @@ My daily LeetCode solutions in Python, Java and C++, auto-synced with LeetHub ðŸ
 | [0001-two-sum](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0053-maximum-subarray](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0136-single-number](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0136-single-number/) | Easy |
+| [0164-maximum-gap](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0164-maximum-gap/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,4 +84,20 @@ My daily LeetCode solutions in Python, Java and C++, auto-synced with LeetHub ðŸ
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0164-maximum-gap/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0164-maximum-gap/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0164-maximum-gap/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
