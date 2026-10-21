@@ -7,6 +7,7 @@ My daily LeetCode solutions in Python, Java and C++, auto-synced with LeetHub ðŸ
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0018-4sum](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0053-maximum-subarray](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0136-single-number](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0136-single-number/) | Easy |
@@ -39,6 +40,7 @@ My daily LeetCode solutions in Python, Java and C++, auto-synced with LeetHub ðŸ
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0141-linked-list-cycle](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -91,6 +93,7 @@ My daily LeetCode solutions in Python, Java and C++, auto-synced with LeetHub ðŸ
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0164-maximum-gap](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0164-maximum-gap/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Bucket Sort
