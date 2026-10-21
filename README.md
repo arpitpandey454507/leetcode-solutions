@@ -11,6 +11,7 @@ My daily LeetCode solutions in Python, Java and C++, auto-synced with LeetHub ðŸ
 | [0053-maximum-subarray](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0136-single-number](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0164-maximum-gap](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0164-maximum-gap/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -91,6 +92,7 @@ My daily LeetCode solutions in Python, Java and C++, auto-synced with LeetHub ðŸ
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0164-maximum-gap/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,4 +109,8 @@ My daily LeetCode solutions in Python, Java and C++, auto-synced with LeetHub ðŸ
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 <!---LeetCode Topics End-->
