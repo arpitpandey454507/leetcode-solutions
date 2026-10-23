@@ -12,6 +12,7 @@ My daily LeetCode solutions in Python, Java and C++, auto-synced with LeetHub ðŸ
 | [0053-maximum-subarray](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0136-single-number](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0164-maximum-gap](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0164-maximum-gap/) | Medium |
+| [0496-next-greater-element-i](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Hash Table
@@ -21,6 +22,7 @@ My daily LeetCode solutions in Python, Java and C++, auto-synced with LeetHub ðŸ
 | [0041-first-missing-positive](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0141-linked-list-cycle](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0496-next-greater-element-i](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,8 +126,13 @@ My daily LeetCode solutions in Python, Java and C++, auto-synced with LeetHub ðŸ
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0496-next-greater-element-i](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
