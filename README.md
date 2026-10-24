@@ -126,6 +126,7 @@ My daily LeetCode solutions in Python, Java and C++, auto-synced with LeetHub ðŸ
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -135,4 +136,8 @@ My daily LeetCode solutions in Python, Java and C++, auto-synced with LeetHub ðŸ
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
