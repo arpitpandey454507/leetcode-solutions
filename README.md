@@ -12,6 +12,7 @@ My daily LeetCode solutions in Python, Java and C++, auto-synced with LeetHub ðŸ
 | [0053-maximum-subarray](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0136-single-number](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0164-maximum-gap](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0164-maximum-gap/) | Medium |
+| [0274-h-index](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0274-h-index/) | Medium |
 | [0496-next-greater-element-i](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -97,6 +98,7 @@ My daily LeetCode solutions in Python, Java and C++, auto-synced with LeetHub ðŸ
 | ------- | ------- |
 | [0018-4sum](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0164-maximum-gap](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0164-maximum-gap/) | Medium |
+| [0274-h-index](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0274-h-index/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -140,4 +142,8 @@ My daily LeetCode solutions in Python, Java and C++, auto-synced with LeetHub ðŸ
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0274-h-index](https://github.com/arpitpandey454507/leetcode-solutions/tree/main/0274-h-index/) | Medium |
 <!---LeetCode Topics End-->
